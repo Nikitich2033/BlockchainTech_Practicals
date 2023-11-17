@@ -1,0 +1,10 @@
+pip == 23.1
+bandit
+black==23.1.0
+flake8==6.0.0
+jupyter
+pre-commit==3.1.0
+pytest
+pytest-cov
+pytest-asyncio
+ipykernel
